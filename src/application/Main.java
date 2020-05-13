@@ -9,9 +9,7 @@ public class Main {
 		
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Price to pay for consuming items: items number and quantity ***");
-		
+				
 		double hotDog = 4.00;
 		double xSalad = 4.50;
 		double xBacon = 5.00;
